@@ -1,0 +1,18 @@
+{
+	"marg.material.oak":"橡木",
+	"marg.material.birch":"白桦木",
+	"marg.material.spruce":"云杉木",
+	"marg.material.jungle":"丛林木",
+	"marg.material.acacia":"金合欢木",
+	"marg.material.dark_oak":"深色橡木",
+	"marg.material.crimson":"绯红木",
+	"marg.material.warped":"诡异木",
+
+	"test.test": "Test ${material}",
+	"test.test.custom": "${custom} Test ${material}",
+	"test.test.custom_only": "${custom} Test",
+
+
+	"marg.customs.potato": "土豆",
+	"marg.customs.cucumber": "黄瓜"
+}
