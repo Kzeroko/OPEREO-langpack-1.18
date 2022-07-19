@@ -47,3 +47,5 @@ A：由于部分模组1.16与1.18都有对应的版本，在更新时会先校�
 | --- | :---: | :---: |
 | [Project Brazier](https://www.curseforge.com/minecraft/mc-mods/project-brazier) | 火盆计划 | @Shaodow |
 | [MARG](https://www.curseforge.com/minecraft/mc-mods/marg) | MARG | @Shaodow |
+| [Diamethysts!](https://www.curseforge.com/minecraft/mc-mods/diamethysts) | 紫辉刚玉 | @Renouer |
+| [Diamethyst Arrows](https://www.curseforge.com/minecraft/mc-mods/diamethyst-arrows) | 紫辉刚玉箭矢 | @Renouer |
