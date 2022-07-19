@@ -14,7 +14,8 @@
 # 鸣谢/Credit
  - @Kzeroko
  - @Shaodow
-
+ - @Renouer
+ 
 # 问答环节/FAQ
 
 ## Q：做这个汉化整合的目的是什么呢？
