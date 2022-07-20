@@ -50,3 +50,21 @@ A：由于部分模组1.16与1.18都有对应的版本，在更新时会先校�
 | [MARG](https://www.curseforge.com/minecraft/mc-mods/marg) | MARG | @Shaodow |
 | [Diamethysts!](https://www.curseforge.com/minecraft/mc-mods/diamethysts) | 紫辉刚玉 | @Renouer |
 | [Diamethyst Arrows](https://www.curseforge.com/minecraft/mc-mods/diamethyst-arrows) | 紫辉刚玉箭矢 | @Renouer |
+| [YDM's Allay](https://www.curseforge.com/minecraft/mc-mods/ydms-allay) | YDM的轻灵 | @Kzeroko |
+| [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight) | Alex生物的乐事 | @Kzeroko |
+| [Blaze Gear](https://www.curseforge.com/minecraft/mc-mods/blaze-gear) | 烈焰装备 | @Kzeroko |
+| [Fantasy's Dice](https://www.curseforge.com/minecraft/mc-mods/fantasys-dice) | Fantasy的骰子 | @Kzeroko |
+| [Fantasy's Furniture](https://www.curseforge.com/minecraft/mc-mods/fantasys-furniture) | Fantasy的家具 | @Kzeroko |
+| [Goblins & Dungeons](https://www.curseforge.com/minecraft/mc-mods/goblins-dungeons) | 哥布林与地下城 | @Flotasy |
+| [Heartstone](https://www.curseforge.com/minecraft/mc-mods/heartstone) | 连结之石 | @Kzeroko |
+| [Immersive Armors](https://www.curseforge.com/minecraft/mc-mods/immersive-armors) | 沉浸式盔甲 | @Kzeroko |
+| [Effortless Building](https://www.curseforge.com/minecraft/mc-mods/effortless-building) | 轻松建筑 | @Kzeroko |
+| [Kobolds!](https://www.curseforge.com/minecraft/mc-mods/kobolds) | 狗头人！ | @Kzeroko |
+| [Mining Master](https://www.curseforge.com/minecraft/mc-mods/mining-master) | 采掘大师 | @Kzeroko |
+| [Perpetual Durability](https://www.curseforge.com/minecraft/mc-mods/perpetual-durability) | 永恒不灭 | @Kzeroko |
+| [Plushie Mod](https://www.curseforge.com/minecraft/mc-mods/plushie-mod) | 玩偶模组 | @Kzeroko |
+| [YDM's Scorpions](https://www.curseforge.com/minecraft/mc-mods/ydms-scorpions) | YDM的毒蝎 | @Kzeroko |
+| [Skillcloaks](https://www.curseforge.com/minecraft/mc-mods/skill-cloaks) | 技能披风 | @Kzeroko |
+| [Sword Displays](https://www.curseforge.com/minecraft/mc-mods/sword-displays) | 刀剑展示 | @Kzeroko |
+| [TelePass](https://www.curseforge.com/minecraft/mc-mods/telepass) | 传送罗盘 | @Kzeroko |
+| [Witherbold](https://www.curseforge.com/minecraft/mc-mods/witherbold) | 凋零狗头人 | @Kzeroko |
